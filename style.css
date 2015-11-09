@@ -1,0 +1,166 @@
+#content
+{
+	width: 1024px;
+	background-image:url(img/bgh.png);
+	margin-top: 4px;
+	margin-left: auto;
+	margin-right: auto;
+	border-top-left-radius: 80px 50px;
+	border-top-right-radius: 80px 50px;
+	border-bottom-left-radius: 80px 50px;
+	border-bottom-right-radius: 80px 50px;
+}
+
+#logo
+{
+	display: block;
+	padding-top: 14px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header
+{
+
+}
+
+#main_content
+{
+}
+
+#nav
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#navbar
+{
+	padding-top: 8px;
+	padding-bottom: 12px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#leftcolumn
+{
+	float: left;
+	width: 464px;
+	padding-left: 32px;
+	padding-right: 16px;
+}
+
+#rightcolumn
+{
+	float: right;
+	width: 464px;
+	padding-left: 16px;
+	padding-right: 32px;
+}
+
+#footer_clr
+{
+	clear: both;
+}
+
+body
+{
+	margin-top: 0px;
+	background-image:url(img/bg.png);
+}
+
+a:link
+{
+	color: #d7d7ff;
+}
+
+a:visited
+{
+	color: #707070;
+}
+
+a:hover
+{
+	color: #6666ff;
+}
+
+a:active
+{
+	color: #f0f0ff;
+}
+
+hr
+{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+h1
+{
+	color: #d7d7d7;
+	margin: 0px;
+	margin-left: 8px;
+	font-family:Book Antiqua;
+	font-style: oblique;
+}
+
+h2
+{
+	color: #d7d7d7;
+	margin: 0px;
+	margin-left: 15px;
+	font-family:Book Antiqua;
+	font-style: oblique;
+}
+
+h4
+{
+	color: #d7d7d7;
+	margin: 0px;
+	font-family:Book Antiqua;
+	font-style: oblique;
+	text-align: center;
+	font-size: x-large;
+}
+
+h5
+{
+	color: #d7d7d7;
+	margin: 0px;
+	margin-top: 32px;
+	margin-left: 15px;
+	font-family:Book Antiqua;
+	font-style: oblique;
+	font-size: large;
+}
+
+p.std
+{
+	color: #d7d7d7;
+	margin-top: 16px;
+	margin-right: 32px;
+	margin-left: 32px;
+	text-align: justify;
+	font-family:Book Antiqua;
+	font-style: normal;
+}
+
+p.mark
+{
+	color: #979797;
+	margin: 0px;
+	margin-top: 16px;
+	margin-right: 32px;
+	padding-bottom: 16px;
+	text-align: right;
+	font-family:Book Antiqua;
+	font-style: italic;
+	font-size: small;
+}
+
+p.footer
+{
+	padding-bottom: 32px;
+}
